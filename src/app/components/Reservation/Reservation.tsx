@@ -1,5 +1,4 @@
 import React from 'react'
-import Image from 'next/image'
 import { BiPhone } from 'react-icons/bi'
 import Reservationform from './Reservationform'
 

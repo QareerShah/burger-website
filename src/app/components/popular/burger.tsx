@@ -15,7 +15,7 @@ const Burger = ({ image , title , price , reviews} : Props) => {
     <div className='bg-white p-6 rounded-lg m-3'>
         {/* Image div */}
         <div className='w-[200px] mx-auto h-[200px]'>
-         <img src={image}  alt={title} width={200} height={200} className='w-[100%] h-[100%] object-cover' />
+         <Image src={image}  alt={title} width={200} height={200} className='w-[100%] h-[100%] object-cover' />
         </div>
         <h1 className='mt-[1.3rem] text-[22px] text-black font-semibold'>{title}</h1>
         <div className='flex items-center mt-[0.5rem] space-x-3 '>

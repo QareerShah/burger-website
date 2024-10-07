@@ -48,8 +48,8 @@ const Hero = () => {
               <p className='mt-[1rem] text-white text-opacity-70 text-[18px]'>
                 Welcome to JuicyBuns, where we bring you the ultimate burger experience! Our burgers 
                 are crafted with the finest ingredients, from juicy patties to freshly baked buns. With 
-                classic favorites and bold new flavors, there's something for every craving. Join us for 
-                a burger adventure you won’t forget!
+                classic favorites and bold new flavors, theres something for every craving. Join us for 
+                a burger adventure you wont forget!
               </p>
               <div className='flex items-center space-x-4'>
                 <button className='mt-8 px-8 py-2 sm:py-3 text-[14px] sm:text-[16px] bg-green-500 transition-all duration-200 
@@ -73,8 +73,8 @@ const Hero = () => {
               <p className='mt-[1rem] text-white text-opacity-70 text-[18px]'>
                 Welcome to JuicyBuns, where we bring you the ultimate burger experience! Our burgers 
                 are crafted with the finest ingredients, from juicy patties to freshly baked buns. With 
-                classic favorites and bold new flavors, there's something for every craving. Join us for 
-                a burger adventure you won’t forget!
+                classic favorites and bold new flavors, theres something for every craving. Join us for 
+                a burger adventure you wont forget!
               </p>
               <div className='flex items-center space-x-4'>
                 <button className='mt-8 px-8 py-2 sm:py-3 text-[14px] sm:text-[16px] bg-blue-500 transition-all duration-200 
